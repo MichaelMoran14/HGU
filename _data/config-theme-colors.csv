@@ -1,9 +1,9 @@
 color_class,color
-primary, #363434
-secondary, #edc447
-success,
-info,
-warning,
-danger,
-light,
-dark, #363434
+primary, red
+secondary, green
+success, #edc447
+info, #edc447
+warning, #edc447
+danger, #edc447
+light, #edc447
+dark, #edc447
