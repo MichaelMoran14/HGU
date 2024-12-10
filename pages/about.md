@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="[LovingYourNeighbor_Header.jpg](https://hegetsus.com/_next/image?url=https%3A%2F%2Fcontent.hegetsus.com%2Fwp-content%2Fuploads%2F2024%2F02%2FLovingYourNeighbor_Header.png&w=1920&q=75)" %}
+{% include feature/jumbotron.html objectid= %}
 
 {% include feature/nav-menu.html sections="About the Collection;" %}
 
