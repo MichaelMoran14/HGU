@@ -1,8 +1,8 @@
 color_class,color
-primary, red
-secondary, yellow
-success, gray
-info, gray
+primary,
+secondary,
+success,
+info,
 warning, gray
 danger, gray
 light, gray
