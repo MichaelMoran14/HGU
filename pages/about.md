@@ -13,5 +13,8 @@ credits: false
 
 ## About the Collection
 {% include feature/pdf.html objectid="/assets/footwashing.pdf" %}
+{% include feature/pdf.html objectid="/assets/The Rebel.pdf" %}
+{% include feature/pdf.html objectid="/assets/Love your enemies.pdf" %}
+{% include feature/pdf.html objectid="/assets/Who is your neighbor.pdf" %}
 ## Background
 
