@@ -12,6 +12,6 @@ credits: false
 {% include feature/nav-menu.html sections="About the Collection;Background" %}
 
 ## About the Collection
-{% include feature/pdf.html objectid="demo_002" %}
+
 ## Background
 
