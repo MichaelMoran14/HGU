@@ -1,9 +1,9 @@
 color_class,color
 primary, red
-secondary, #edc447
-success, #edc447
-info, #edc447
-warning, #edc447
-danger, #edc447
-light, #292928
-dark, #edc447
+secondary, yellow
+success, gray
+info, gray
+warning, gray
+danger, gray
+light, gray
+dark, gray
