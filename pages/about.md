@@ -93,18 +93,32 @@ I think this is the best model for my research. Considering additional issues of
  
 ## Works Cited
 Burge, Ryan. “Why ‘evangelical’ Is Becoming Another Word for ‘Republican.’” The New York Times, The New York Times, 26 Oct. 2021, www.nytimes.com/2021/10/26/opinion/evangelical-republican.html?searchResultPosition=1. 
+
 Cobb, John B. Christ in a Pluralistic Age. Wipf and Stock Publishers, 1999. 
+
 Cooper, Michael T., and Matthew S. Harbour. "The Jesus of" He Gets Us": Sorting out our Christology." Journal of the Evangelical Missiological Society 3.1 (2023): 1-19.
+
 Crick, Nathan, and Andre Johnson. “CONFRONTATIONAL AND INTERSECTIONAL RHETORIC Black Lives Matter and the Shutdown of the Hernando De Soto (I-40) Bridge.” The Rhetoric of Social Movements: Networks, Power, and New Media, Routledge, Taylor & Francis Group, New York, 2021. 
+
 Einstein, Mara and Edward Timke. "He Gets Us: How Marketers and Religion Evangelize." Advertising & Society Quarterly, vol. 24 no. 1, 2023. Project MUSE, https://dx.doi.org/10.1353/asr.2023.a898061.
+
 Einstein, Mara and Edward Timke. "He Gets Us: How Marketers and Religion Evangelize." Advertising & Society Quarterly, vol. 24 no. 1, 2023. Project MUSE, https://dx.doi.org/10.1353/asr.2023.a898061.
+
 Einstein, Mara. Brands of Faith: Marketing Religion in a Commercial Age. Routledge, 2008. 
+
 Featherstone, Liza. “The Jesus of Tonight’s Super Bowl Ads Can’t Be Found in Right-Wing Churches.” Jacobin, 2 Dec. 2023, jacobin.com/2023/02/super-bowl-jesus-far-right-politics-christian-ads. 
+
 hegetsus.com and on YouTube--all articles and videos can be found on Collection Builder site: https://michaelmoran14.github.io/HGU/
+
 Johnson, Andre. The Forgotten Prophet: Bishop Henry McNeal Turner and the African American Prophetic Tradition. Lexington, 2012.
+
 Killingsworth, M. Jimmie. Appeals in Modern Rhetoric: An Ordinary-Language Approach. Southern Illinois University Press, 2005. 
+
 Mapping Christian Rhetorics : Connecting Conversations, Charting New Territories, edited by Michael-John DePalma, and Jeffrey M. Ringer, Taylor & Francis Group, 2014. ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/utk/detail.action?docID=1813168.
+
 Ringer, J. M. (2016). Creating deliberate conversation: The rhetorical possibilities of vernacular religious creativity. Vernacular Christian Discourse: The Religious Creativity of 	Evangelical Student Writers, p. 36-53. Routledge
+
 Shore, Daniel. “WWJD? The Genealogy of a Syntactic Form.” Critical Inquiry, vol. 37, no. 1, 2010, pp. 1–25. JSTOR, https://doi.org/10.1086/656466. Accessed 12 Dec. 2024.
+
 Taylor, Charles. A Secular Age. Belknap Press, 2007
 
